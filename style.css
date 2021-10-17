@@ -1,0 +1,52 @@
+.body{
+    margin: 0;
+}
+.container{
+    display: block;
+    text-align: center;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.img{
+    display: block;
+    text-align: center;
+}
+.box{
+    display: block;
+    background-color: #EEEEEE;
+    white-space: normal;
+}
+.box2{
+    display: block;
+    float: left;
+    width: 37%;
+    background-color: #7EE5DA;
+    padding: 10px 0px
+    
+}
+.box3{
+    display: block;
+    width: 30%;
+    text-align: center;
+    background-color: #70CCC2;
+    float: left;
+    margin-right: 3px;
+    font-size:smaller;
+    padding-top: 7.5px;
+    padding-bottom: 7.5px;
+
+}
+.clear{
+    clear: both;
+}
+.box4{
+    display: block;
+    width: 32.45%;
+    text-align: center;
+    background-color: #62B3AA;
+    float: left;
+    margin-right: 0px;
+    font-size: smaller;
+    padding: 2.5px 0px;
+}
